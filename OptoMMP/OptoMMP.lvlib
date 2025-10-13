@@ -14,6 +14,7 @@
 		<Item Name="Error Interpreter.vi" Type="VI" URL="/&lt;instrlib&gt;/OptoMMP/Private/Error Interpreter.vi"/>
 		<Item Name="Flush TCP Buffer.vi" Type="VI" URL="/&lt;instrlib&gt;/OptoMMP/Private/Flush TCP Buffer.vi"/>
 		<Item Name="Generate TL and RT.vi" Type="VI" URL="/&lt;instrlib&gt;/OptoMMP/Private/Generate TL and RT.vi"/>
+		<Item Name="Send-Receive.vi" Type="VI" URL="/&lt;instrlib&gt;/OptoMMP/Private/Send-Receive.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
